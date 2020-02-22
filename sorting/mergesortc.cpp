@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 void printArray(int[], int);
-int* megeSort(int[], int, int);
-void megeSort(int[], int, int, int);
+int* mergeSort(int[], int, int);
+void merge(int[], int, int, int);
 
 void printArray(int arr[], int count){
 
